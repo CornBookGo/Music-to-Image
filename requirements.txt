@@ -1,0 +1,10 @@
+torch==2.0.1
+pydub
+invisible_watermark
+transformers
+diffusers
+compel
+accelerate
+safetensors
+moviepy
+yt-dlp
